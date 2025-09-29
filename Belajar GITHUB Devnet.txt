@@ -1,3 +1,8 @@
 Tahapan belajar GITHUB:
 1. Belajar Revo
 2. Belajar Commit
+3. Belajar Branch
+4. Belajar Merge
+5. Belajar Pull
+6. Belajar Conflict
+7. Belajar Push
