@@ -1,0 +1,3 @@
+Tahapan belajar GITHUB:
+1. Belajar Revo
+2. Belajar Commit
